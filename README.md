@@ -16,6 +16,7 @@ windows os
 
 
 
+
 ## Initialize the app 
 
 `git clone https://github.com/Rossetow/spelling-bee-practice`
@@ -24,6 +25,15 @@ windows os
 
 or just double click the .exe file
 
+### If not on Windows please follow these steps: 
+
+#### Go needs to be installed and then:
+
+`cd app`
+
+`go build -o spelling-bee-practice`
+
+`.\spelling-bee-practice`
 
 ## Technologies
 

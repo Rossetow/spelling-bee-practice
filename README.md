@@ -3,7 +3,7 @@
 
 I built this simple spelling bee practice in order to help my brother prepare for his next spelling bee competition.
 
-It uses a TTS library and integration with an AI API to generate context sentences and simulate a real spelling bee.
+It used a TTS library and integration with an AI API to generate context sentences and simulate a real spelling bee.
 
 
 

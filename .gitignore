@@ -1,0 +1,6 @@
+build/
+.env
+words-minimal.json
+Dockerfile
+.dockerignore
+docker-compose.yaml

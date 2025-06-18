@@ -28,7 +28,7 @@ jobs:
       run: go test -v -coverprofile=coverage.out ./...
 
     - name: Upload do relatório de cobertura
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: cobertura-teste
         path: coverage.out
